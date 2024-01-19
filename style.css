@@ -1,0 +1,28 @@
+#main-header{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 18px;
+}
+section{
+    padding: 5px;
+}
+h3{
+    background-color: rgb(213, 205, 223);
+    width: 20%;
+}
+h3:hover{
+    transition: 250ms;
+    background-color: rgb(71, 71, 141);
+    color: white;
+    padding: 7px;
+}
+a{
+    color: black;
+    background-color: rgb(225, 231, 229);
+}
+footer{
+    background-color: rgb(80, 146, 146);
+    text-align: center;
+    padding: 5px;
+}
